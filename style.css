@@ -1,0 +1,74 @@
+.btn-space {
+    margin-right: 5px;
+}
+.trans{
+    opacity: 0.7;
+}
+
+body, html {
+    height: 100%;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url('images/bgimage.jpg');
+
+    /* Full height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-2 {
+    /* The image used */
+    background-image: url('images/bgimage2.jpg');
+
+    /* Full height */
+    height: 50%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-3 {
+    /* The image used */
+    background-image: url('images/bgimage3.jpg');
+
+    /* Full height */
+    height: 60%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav_prop{
+    background-color: #22252c;
+    opacity: 0.9;
+    
+}
+
+.div{
+    padding: 0.7cm;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+    
+    width: 50%;
+}
+
+
+
